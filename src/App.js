@@ -5,13 +5,13 @@ function App() {
   const studentList = [
     "Inna",
     "Sebastian",
-    "Sophie T.",
+    "Zsofia T.",
     "Fakhira",
     "Annika",
     "Said",
     "Hamid",
     "Omar",
-    "Guillerme",
+    "Guilherme",
     "Sofia D.",
     "Angel",
   ];
